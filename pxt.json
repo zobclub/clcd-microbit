@@ -1,0 +1,17 @@
+{
+    "name": "clcd-microbit",
+    "version": "1.0.0",
+    "description": "CLCD Display",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "clcd.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true
+}
